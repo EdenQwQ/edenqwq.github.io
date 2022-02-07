@@ -42,12 +42,12 @@ Check [this
 comment](https://github.com/dylanaraps/pywal/issues/384#issuecomment-505801129)
 under a pywal issue.
 
-```fish
+```bash
 vim ~/.config/wal/templates/colors.fish
 ```
 
 Add lines in the file that look like <code>set fish_color_normal
 {foreground.strip}</code>. Source the output file in your config.fish.
-```fish
+```bash
 source ~/.cache/wal/colors.fish
 ```
