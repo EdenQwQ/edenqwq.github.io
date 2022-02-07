@@ -1,11 +1,11 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Eden's blog",
+  "description": "A blog about the things I like to do",
+  "url": "https://edenqwq.github.io",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Eden",
+    "email": "lsahlm1eden@gmail.com",
+    "twitterHandle": "@EDENyzzx"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -22,18 +22,13 @@
   ],
   "socialLinks": [
     {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
-    },
-    {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/EdenQwQ",
       "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://twitter.com/EDENyzzx",
       "external": true
     }
   ],
