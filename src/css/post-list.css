@@ -47,7 +47,7 @@
 .post-list__title a {
   font-weight: normal;
   text-decoration: none;
-  color: rgb(186, 194, 222);
+  color: rgb(245, 224, 220);
 }
 
 .post-list__title a:hover {
@@ -73,7 +73,7 @@
 
 .post-list__tags a {
   text-decoration: none;
-  color: rgb(166, 173, 200);
+  color: rgb(203, 166, 247);
 }
 
 .post-list__tags a:hover {
