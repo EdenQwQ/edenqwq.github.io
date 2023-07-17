@@ -17,7 +17,7 @@ tags: [Linux, Gentoo, Distro, OS]
 
 Gentoo在Linux及自由软件爱好者群体中已经成为了一个梗，而Gentoo的meme化很大程度上是因为Gentoo闻名遐迩（~~臭名昭著~~）的安装之**困难和费时**。
 
-![random gentoo meme](../images/3a4yepx08v4b1.jpg)
+![random gentoo meme](3a4yepx08v4b1.jpg)
 *才4小时？*
 
 ## 我与Gentoo
@@ -40,7 +40,7 @@ Gentoo在Linux及自由软件爱好者群体中已经成为了一个梗，而Gen
 这次我已经熟门熟路（~~然而还是跳过了编译内核选择了kernel-bin~~），竟然在两小时内就完成了安装。
 现在是我将Gentoo作为主系统日用的第五天，我已经深深爱上了这个**特别而奇妙**的发行版。
 
-![gentoo rui](../images/9zkccddff81b1.png)
+![gentoo rui](9zkccddff81b1.png)
 *随处可见的Gentoo*
 
 ## Why Gentoo？
