@@ -1,6 +1,6 @@
 ---
 title: 我与Gentoo——为什么Gentoo如此吸引Linux爱好者
-date: 2023-7-17
+date: 2023-07-17
 tags: [Linux, Gentoo, Distro, OS]
 ---
 
