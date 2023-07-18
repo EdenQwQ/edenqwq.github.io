@@ -67,6 +67,10 @@ h6 {
   color: rgb(180, 190, 254);
 }
 
+bold {
+  color: rgb(180, 190, 254);
+}
+
 p {
   font-size: var(--text-lg);
 }
