@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://eden.is-a.dev/sitemap.xml
