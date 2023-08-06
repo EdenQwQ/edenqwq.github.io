@@ -27,7 +27,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(readingTime);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
-  config.addPassthroughCopy("CNAME")
+  eleventyConfig.addPassthroughCopy("CNAME")
 
   // setup mermaid markdown highlighter
   const highlighter = eleventyConfig.markdownHighlighter;
