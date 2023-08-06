@@ -1,9 +1,7 @@
 name: Build Eleventy
 
 on:
-  push:
-    branches:
-      - master
+  [push]
 
 jobs:
   build:
