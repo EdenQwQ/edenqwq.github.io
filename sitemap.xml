@@ -59,9 +59,20 @@
   
     
       <url>
+        <loc>https://eden.is-a.dev/posts/nixos/</loc>
+        
+          <lastmod>2025-01-05T00:00:00.000Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
         <loc>https://eden.is-a.dev/about/</loc>
         
-          <lastmod>2023-08-07T03:26:02.765Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.589Z</lastmod>
         
         
         
@@ -72,7 +83,7 @@
       <url>
         <loc>https://eden.is-a.dev/blog/</loc>
         
-          <lastmod>2023-08-07T03:26:02.765Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.589Z</lastmod>
         
         
         
@@ -83,7 +94,7 @@
       <url>
         <loc>https://eden.is-a.dev/</loc>
         
-          <lastmod>2023-08-07T03:26:02.769Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.597Z</lastmod>
         
         
         
@@ -94,7 +105,7 @@
       <url>
         <loc>https://eden.is-a.dev/robots.txt</loc>
         
-          <lastmod>2023-08-07T03:26:02.773Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.597Z</lastmod>
         
         
         
@@ -105,7 +116,7 @@
       <url>
         <loc>https://eden.is-a.dev/tags/Python/</loc>
         
-          <lastmod>2023-08-07T03:26:02.773Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.597Z</lastmod>
         
         
         
@@ -116,7 +127,7 @@
       <url>
         <loc>https://eden.is-a.dev/tags/Rust/</loc>
         
-          <lastmod>2023-08-07T03:26:02.773Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.597Z</lastmod>
         
         
         
@@ -127,7 +138,7 @@
       <url>
         <loc>https://eden.is-a.dev/tags/Linux/</loc>
         
-          <lastmod>2023-08-07T03:26:02.773Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.597Z</lastmod>
         
         
         
@@ -138,7 +149,7 @@
       <url>
         <loc>https://eden.is-a.dev/tags/Gentoo/</loc>
         
-          <lastmod>2023-08-07T03:26:02.773Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.597Z</lastmod>
         
         
         
@@ -149,7 +160,7 @@
       <url>
         <loc>https://eden.is-a.dev/tags/Distro/</loc>
         
-          <lastmod>2023-08-07T03:26:02.773Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.597Z</lastmod>
         
         
         
@@ -160,7 +171,7 @@
       <url>
         <loc>https://eden.is-a.dev/tags/OS/</loc>
         
-          <lastmod>2023-08-07T03:26:02.773Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.597Z</lastmod>
         
         
         
@@ -171,7 +182,7 @@
       <url>
         <loc>https://eden.is-a.dev/tags/WM/</loc>
         
-          <lastmod>2023-08-07T03:26:02.773Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.597Z</lastmod>
         
         
         
@@ -182,7 +193,18 @@
       <url>
         <loc>https://eden.is-a.dev/tags/blog/</loc>
         
-          <lastmod>2023-08-07T03:26:02.773Z</lastmod>
+          <lastmod>2025-01-24T13:58:46.597Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://eden.is-a.dev/tags/NixOS/</loc>
+        
+          <lastmod>2025-01-24T13:58:46.597Z</lastmod>
         
         
         
