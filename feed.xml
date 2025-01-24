@@ -314,7 +314,7 @@ Artix、Void、Fedora 都几乎做到了这点，但最多也就持续了一年�
 <div style="text-align:center;">
 <p><img src="/images/btw-i-use-nixos.png" alt="btw I use NixOS"></p>
 </div>
-<p><em>图源：https://www.reddit.com/r/NixOS/comments/1dpc0ea/title</em></p>
+<p><em>图源：<a href="https://www.reddit.com/r/NixOS/comments/1dpc0ea/title">https://www.reddit.com/r/NixOS/comments/1dpc0ea/title</a></em></p>
 <h2>NixOS 到底好在哪</h2>
 <p>到现在为止，我竟然已经用了<strong>一年多</strong>的 NixOS 了。
 而且现在我完全没有尝试别的发行版的欲望。因为 NixOS 已经可以满足我的几乎所有需求了。</p>
@@ -359,7 +359,7 @@ NixOS 里，我只需要写 <code>services.pipewire.enable = true;</code> 就好
 <div style="text-align:center;">
 <p><img src="/images/repology-graph.png" alt="repology graph"></p>
 </div>
-<p><em>图源：https://repology.org/repositories/graphs</em></p>
+<p><em>图源：<a href="https://repology.org/repositories/graphs">https://repology.org/repositories/graphs</a></em></p>
 <p>再比如说，<strong>NixOS 社区</strong>。
 NixOS 社区的活跃程度和体量完全不亚于 Arch。
 我目前为止碰到的几乎所有问题，基本都可以在 <a href="https://discourse.nixos.org"><strong>NixOS Discourse</strong></a> 上找到答案。
