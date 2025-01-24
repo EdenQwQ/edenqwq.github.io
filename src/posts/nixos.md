@@ -58,7 +58,7 @@ Artix、Void、Fedora 都几乎做到了这点，但最多也就持续了一年�
 
 </div>
 
-_图源：https://www.reddit.com/r/NixOS/comments/1dpc0ea/title_
+_图源：[https://www.reddit.com/r/NixOS/comments/1dpc0ea/title](https://www.reddit.com/r/NixOS/comments/1dpc0ea/title)_
 
 ## NixOS 到底好在哪
 
@@ -135,7 +135,7 @@ NixOS 太**大**了。
 
 </div>
 
-_图源：https://repology.org/repositories/graphs_
+_图源：[https://repology.org/repositories/graphs](https://repology.org/repositories/graphs)_
 
 再比如说，**NixOS 社区**。
 NixOS 社区的活跃程度和体量完全不亚于 Arch。
