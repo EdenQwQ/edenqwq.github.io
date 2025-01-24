@@ -5,6 +5,7 @@ tags: [Linux, NixOS, Distro, OS]
 ---
 
 > 自从我开始用 Linux，就一直在 distro hopping。
+> 我用过不下 **20** 个 Linux 发行版，其中大多数都是实装并日用过的。
 > **NixOS** 治好了我的发行版跳跃症，让我连想 distro hop 的心思都没有了。
 > 因为 NixOS 实在太完美了……
 
@@ -53,7 +54,7 @@ Artix、Void、Fedora 都几乎做到了这点，但最多也就持续了一年�
 
 <div style="text-align:center;">
 
-![btw I use NixOS](/images/btw-i-use-nixos.png =500x)
+![btw I use NixOS](/images/btw-i-use-nixos.png)
 
 </div>
 
